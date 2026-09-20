@@ -4,6 +4,8 @@ Se analiza la probabilidad de incumplimiento de 5 emisores colombianos del secto
 energético (ISA, ISAGEN, EPM, CELSIA y Enel Colombia), combinando un modelo contable (Z''-Score de
 Altman) y un modelo de mercado (Distancia a Default de Merton/KMV).
 
+Link del video: https://www.youtube.com/watch?v=vPFa9OnkCD8
+
 ## Qué hace este proyecto
 
 1. Descarga y procesa los estados financieros trimestrales de los 5 emisores, publicados en formato
