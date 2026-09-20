@@ -1,6 +1,6 @@
-# Análisis de probabilidad de incumplimiento (emisores colombianos de energía)
+# Análisis de probabilidad de incumplimiento 
 
-Este proyecto analiza la probabilidad de incumplimiento de 5 emisores colombianos del sector
+Se analiza la probabilidad de incumplimiento de 5 emisores colombianos del sector
 energético (ISA, ISAGEN, EPM, CELSIA y Enel Colombia), combinando un modelo contable (Z''-Score de
 Altman) y un modelo de mercado (Distancia a Default de Merton/KMV).
 
@@ -240,9 +240,3 @@ normativo ni calibrado específicamente para el mercado colombiano.
 
 Para más detalle por emisor, ver `Hallazgos_PD_Emisores_Energia.pdf`.
 
-## Créditos
-
-La extracción con Arelle sigue la metodología del ejercicio de referencia de
-[Andrés Gómez Hernández](https://co.linkedin.com/in/andres-gomez-hernandez) (cargar el XBRL con
-`Cntlr`, convertir sus *facts* en una tabla y filtrar por concepto y fecha), extendida para manejar
-desgloses por dimensión, múltiples empresas y las reconciliaciones descritas arriba.
